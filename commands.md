@@ -6,3 +6,7 @@ pip install pyspark findspark jupyter ipykernel pandas numpy matplotlib scikit-l
 pip freeze > requirements.txt
 
 python -m ipykernel install --user --name hvac-big-data --display-name "Python (HVAC Big Data)"
+
+pip install requirements.txt
+
+pip install pyspark findspark jupyter pyarrow
