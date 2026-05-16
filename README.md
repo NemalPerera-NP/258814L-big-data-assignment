@@ -105,7 +105,7 @@ python -m venv .venv
 On Windows PowerShell:
 
 ```powershell
-.\.venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate
 ```
 
 On Windows Command Prompt:
@@ -266,6 +266,3 @@ Then:
 - The project depends on the Yelp JSON files being present locally
 - The recommendation part depends on the processed outputs created earlier in the notebook
 
-## Contact / Submission Context
-
-This project was prepared as a university mini project for a Big Data Analytics module. The notebook, outputs, slides, and demo material should be read together as one connected submission.
